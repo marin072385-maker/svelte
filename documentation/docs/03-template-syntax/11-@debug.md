@@ -7,8 +7,8 @@ The `{@debug ...}` tag offers an alternative to `console.log(...)`. It logs the 
 ```svelte
 <script>
 	let user = {
-		firstname: 'Ada',
-		lastname: 'Lovelace'
+		firstname: 'marin',
+		lastname: 'dobyns'
 	};
 </script>
 
